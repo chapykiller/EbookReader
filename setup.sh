@@ -27,5 +27,6 @@ pip install nnmnkwii==0.0.9
 pip install matplotlib
 pip install IPython
 pip install -e ".[train]"
+mkdir out
 source deactivate deepvoice
 cd ..

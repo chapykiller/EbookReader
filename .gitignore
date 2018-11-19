@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+20171222_deepvoice3_vctk108_checkpoint_step000300000.pth
+glove.6B.100d.word2vec.txt
+weights.tar.gz
+weights/
+out/
